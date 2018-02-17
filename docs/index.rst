@@ -6,6 +6,6 @@ DFTB+ Developers Guide
    :maxdepth: 2
 
    gitworkflow.rst
-   fortranstyle.rst
-   python.rst
+   languages/index.rst
+   codestructure/index.rst
    licence.rst
